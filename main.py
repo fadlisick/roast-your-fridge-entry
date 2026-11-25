@@ -7,8 +7,8 @@ import sys
 
 def roast() -> str:
     return (
-        "My fridge beeps if the door stays open for ten seconds, "
-        "which is the closest thing in this house to someone noticing I am gone."
+        "My fridge's French doors close with the solemn authority of a bank vault, "
+        "protecting two withered limes, a takeout packet of soy sauce, and my delusions of meal-prepping."
     )
 
 
